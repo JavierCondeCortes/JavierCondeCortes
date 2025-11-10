@@ -28,8 +28,6 @@ Actualmente estoy profundizando en:
 
 ### 📚 Módulos que curso actualmente
 
-> Ordenados por nivel de complejidad en código:
-
 - **DWEC** – Desarrollo web en entorno cliente (`JavaScript`)
 - **DWES** – Desarrollo web en entorno servidor (`PHP`, próximamente `Laravel`)
 - **Frameworks** – (`Angular`, `Bootstrap`)
