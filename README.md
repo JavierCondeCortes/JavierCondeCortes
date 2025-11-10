@@ -22,7 +22,6 @@ Actualmente estoy profundizando en:
 - `PHP` y `JavaScript` como lenguajes principales
 - `HTML` y `CSS` para diseño web
 - `Angular` como framework (¡y pronto `Laravel`!)
-- Todo esto me está ayudando a construir una base sólida, aunque **PHP sigue siendo un reto personal**
 
 ---
 
