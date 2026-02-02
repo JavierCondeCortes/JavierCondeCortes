@@ -28,10 +28,10 @@ Actualmente estoy profundizando en:
 ### 📚 Módulos que curso actualmente
 
 - **DWEC** – Desarrollo web en entorno cliente (`JavaScript`)
-- **DWES** – Desarrollo web en entorno servidor (`PHP`, próximamente `Laravel`)
-- **Frameworks** – (`Angular`, `Bootstrap`)
-- **Diseño de Interfaces** – (`HTML`, `CSS`)
-- **Despliegue** – (`Linux`)
+- **DWES** – Desarrollo web en entorno servidor (`PHP`, `Laravel`)
+- **Frameworks** – (`Angular`)
+- **Diseño de Interfaces** – (`HTML`, `CSS`,`Tailwind`)
+- **Despliegue** – (`Linux`,`Docker`,`DJango`,`Apache`,`NGinx`)
 - **Digitalización**
 - **Sostenibilidad**
 - **IPE II** – *(convalidada de GM)*
