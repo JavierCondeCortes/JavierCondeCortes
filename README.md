@@ -21,7 +21,7 @@ Actualmente estoy profundizando en:
 
 - `PHP` y `JavaScript` como lenguajes principales
 - `HTML` y `CSS` para diseño web
-- `Angular` como framework (¡y pronto `Laravel`!)
+- `Angular` y `Laravel` como framework 
 
 ---
 
@@ -29,8 +29,8 @@ Actualmente estoy profundizando en:
 
 - **DWEC** – Desarrollo web en entorno cliente (`JavaScript`)
 - **DWES** – Desarrollo web en entorno servidor (`PHP`, `Laravel`)
-- **Frameworks** – (`Angular`)
-- **Diseño de Interfaces** – (`HTML`, `CSS`,`Tailwind`)
+- **Frameworks**(optativa) – (`Angular`)
+- **Diseño de Interfaces** – (`HTML`, `CSS`,`Tailwind`,`Boostrap`)
 - **Despliegue** – (`Linux`,`Docker`,`DJango`,`Apache`,`NGinx`)
 - **Digitalización**
 - **Sostenibilidad**
