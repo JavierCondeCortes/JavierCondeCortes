@@ -6,14 +6,6 @@ Soy un **pequeño programador** que está creciendo paso a paso. Me apasiona el 
 
 ---
 
-### 🚧 Retos y reflexiones
-
-- Me encanta la programación, pero siento que la **falta de teoría** y la **desorganización en la enseñanza** han hecho que arrastre conceptos que debería haber dominado en 1º de GS.
-- Hay profesores brillantes, pero también otros que no logran transmitir bien los contenidos, lo que complica aún más el aprendizaje.
-- Por eso, **me esfuerzo por aprender por mi cuenta**, buscando recursos, practicando y tratando de **remontar el nivel que se espera en 2º**.
-- Uno de mis mayores desafíos es **entender y estudiar el código** que se me presenta. Estoy trabajando en mejorar mi forma de aprender y asimilar conceptos.
-
----
 
 ### 🧠 Tecnologías que estoy aprendiendo
 
