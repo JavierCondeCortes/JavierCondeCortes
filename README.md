@@ -38,16 +38,16 @@ Agradezco tu paso por mi perfil **^^**
 ### 🌐 Conectemos
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/javier-conde-cortes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://javiercondecortes.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://discord.gg/TU_INVITACION_DISCORD" target="_blank">
+  <a href="https://discord.gg/https://discord.gg/YTEbsVFzAZ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="mailto:tu-correo@example.com">
+  <a href="mailto:informacion@javiercondecortes.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
